@@ -46,6 +46,3 @@ yarn.lock
 /docs/docs/
 
 /clerk-typedoc
-temp_auto_push.bat
-temp_interactive_push.bat
-.gitignore
